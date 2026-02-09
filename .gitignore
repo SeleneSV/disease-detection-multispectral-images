@@ -211,3 +211,5 @@ data/
 datasets/
 models/
 results/
+extracted_objects_frijol/
+extracted_objects_maiz/
